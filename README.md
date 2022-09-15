@@ -15,3 +15,6 @@
 4. Describe the criteria you used to determine that you had sufficient test cases, i.e. how did you know you were done?
 
 -> I used the integers value. Used self.assertEqual to get the value of a, b, c and give them the value and check if they were passing the test cases of equilateral, Isosceles, Scalene, Right angle triangles.
+
+
+https://github.com/NehharShah/SSW567-HW01-Triangle
